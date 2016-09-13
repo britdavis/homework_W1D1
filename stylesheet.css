@@ -1,0 +1,26 @@
+h2 {
+	background-color: green;
+	text-align: center;
+	border-style: solid;
+}
+img {
+	display: block;
+	height: 100px;
+
+
+}
+p {
+	text-align: left
+	;
+}
+div p {background-color: green;
+	text-align: center;
+	border-style: solid;
+}
+a:link {
+	text-decoration: none;
+	color:black;
+}
+a:hover {
+	text-decoration: underline;
+}
